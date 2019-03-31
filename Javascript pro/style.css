@@ -1,0 +1,25 @@
+#object{
+	display: block;
+	position: absolute;
+	top: 30%;
+	min-width: 100%;
+}
+#object.down{
+	display: block;
+	position: absolute;
+	top: 60%;
+	min-width: 100%;
+
+}
+#down{
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+#up{
+	display: block;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+}
